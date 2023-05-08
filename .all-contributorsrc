@@ -2055,6 +2055,24 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "esotuvaka",
+      "name": "Eric",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104941850?v=4",
+      "profile": "http://esotuvaka.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "az0977776",
+      "name": "Aaron Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9172038?v=4",
+      "profile": "https://github.com/az0977776",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 8,
